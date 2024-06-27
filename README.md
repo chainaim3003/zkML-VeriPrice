@@ -16,7 +16,9 @@ These help in many price transparency usecases.
 
 The video is available at : https://www.youtube.com/watch?v=Aio-fEitkPA
 
-# Presentation deck  :  https://github.com/chainaim3003/zkML-VeriPrice
+# Presentation deck
+
+https://gitub.com/chainaim3003/zkML-VeriPrice
 
 # HOW TO RUN zKML-VeriPrice application(testnet)
 
