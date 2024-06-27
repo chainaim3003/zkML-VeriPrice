@@ -14,7 +14,7 @@ These help in many price transparency usecases.
 
 # Video 
 
-The video is available at : https://www.youtube.com/watch?v=nmmOK583990
+The video is available at : https://www.youtube.com/watch?v=Aio-fEitkPA
 
 # Presentation deck  :  https://github.com/chainaim3003/zkML-VeriPrice
 
