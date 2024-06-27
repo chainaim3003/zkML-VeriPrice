@@ -1,0 +1,4 @@
+giza_env/
+.env
+tmp/
+_pycache_/

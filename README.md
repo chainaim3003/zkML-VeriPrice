@@ -1,2 +1,2 @@
-# zkML-VeriPrice
-ZKML - Verifiable ML : For Price Transparency - Health Insurance
+# zkML-DvPGiza
+A ZK ML Based DvP - Delivery versus Payment Engine in GIZA for Real world capabilities
