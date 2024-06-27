@@ -18,6 +18,8 @@ The video is available at : https://www.youtube.com/watch?v=Aio-fEitkPA
 
 # Presentation deck
 
+https://github.com/chainaim3003/zkML-VeriPrice/blob/main/zkML-VeriPrice-V1.pptx
+
 https://gitub.com/chainaim3003/zkML-VeriPrice
 
 # HOW TO RUN zKML-VeriPrice application(testnet)
