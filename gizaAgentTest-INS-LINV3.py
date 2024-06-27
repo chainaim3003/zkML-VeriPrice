@@ -362,7 +362,7 @@ if __name__ == "__main__":
     # Display in the sidebar
     st.sidebar.header("Model Information")
     st.sidebar.write("Model Info: Verifiable ML")
-    st.sidebar.write("Price Transparency US Healthcare.")
+    st.sidebar.write("Price Transparency US Healthcare..")
 
     st.sidebar.write("Model ID:", MODEL_ID)
     st.sidebar.write("Version ID:", VERSION_ID)    
